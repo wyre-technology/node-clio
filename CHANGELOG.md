@@ -1,3 +1,10 @@
+# 1.0.0 (2026-07-15)
+
+
+### Features
+
+* initial Clio Manage API v4 TypeScript SDK ([cc30c81](https://github.com/wyre-technology/node-clio/commit/cc30c8158ac96f4e513db1f78a3ce02c036db8a0))
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
